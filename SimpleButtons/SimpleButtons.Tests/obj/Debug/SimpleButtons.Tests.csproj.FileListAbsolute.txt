@@ -1,0 +1,14 @@
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\SimpleButtons.Tests.dll
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\SimpleButtons.Tests.pdb
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\TestStack.White.dll
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\TestStack.White.pdb
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\TestStack.White.xml
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\obj\Debug\SimpleButtons.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\obj\Debug\SimpleButtons.Tests.dll
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\obj\Debug\SimpleButtons.Tests.pdb
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\SimpleButtons.exe
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons.Tests\bin\Debug\SimpleButtons.pdb

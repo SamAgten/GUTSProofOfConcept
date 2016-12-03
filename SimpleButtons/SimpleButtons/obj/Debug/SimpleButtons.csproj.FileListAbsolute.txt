@@ -1,0 +1,14 @@
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\bin\Debug\SimpleButtons.exe.config
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\bin\Debug\SimpleButtons.exe
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\bin\Debug\SimpleButtons.pdb
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\SimpleButtons.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\SimpleButtons_MarkupCompile.cache
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\SimpleButtons_MarkupCompile.lref
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\MainWindow.baml
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\SimpleButtons.g.resources
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\SimpleButtons.Properties.Resources.resources
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\SimpleButtons.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\SimpleButtons.exe
+C:\Users\Sam\Documents\PXL\OIP GUTS\SimpleTestSetup\SimpleButtons\SimpleButtons\obj\Debug\SimpleButtons.pdb
